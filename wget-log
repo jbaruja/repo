@@ -1,0 +1,21 @@
+--2023-05-02 16:06:47--  https://drive.google.com/u/0/uc?id=18vFtJvj3qZeBbK6fVpoWDc5ccteWHMwQ
+Resolvendo drive.google.com (drive.google.com)... 142.251.128.110, 2800:3f0:4001:82b::200e
+Conectando-se a drive.google.com (drive.google.com)|142.251.128.110|:443... conectado.
+A requisição HTTP foi enviada, aguardando resposta... 302 Found
+Localização: https://drive.google.com/uc?id=18vFtJvj3qZeBbK6fVpoWDc5ccteWHMwQ [redirecionando]
+--2023-05-02 16:06:48--  https://drive.google.com/uc?id=18vFtJvj3qZeBbK6fVpoWDc5ccteWHMwQ
+Reaproveitando a conexão existente para drive.google.com:443.
+A requisição HTTP foi enviada, aguardando resposta... 303 See Other
+Localização: https://doc-0o-08-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/i3qh5jcfmgtnlckug2dp1160gb2n7lje/1683054375000/00985153208170019395/*/18vFtJvj3qZeBbK6fVpoWDc5ccteWHMwQ?uuid=d5f4149f-4f95-4099-9a03-9aab429314d6 [redirecionando]
+Aviso: Não há suporte para caracteres coringa no HTTP.
+--2023-05-02 16:07:27--  https://doc-0o-08-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/i3qh5jcfmgtnlckug2dp1160gb2n7lje/1683054375000/00985153208170019395/*/18vFtJvj3qZeBbK6fVpoWDc5ccteWHMwQ?uuid=d5f4149f-4f95-4099-9a03-9aab429314d6
+Resolvendo doc-0o-08-docs.googleusercontent.com (doc-0o-08-docs.googleusercontent.com)... 142.251.128.129, 2800:3f0:4001:82c::2001
+Conectando-se a doc-0o-08-docs.googleusercontent.com (doc-0o-08-docs.googleusercontent.com)|142.251.128.129|:443... conectado.
+A requisição HTTP foi enviada, aguardando resposta... 200 OK
+Tamanho: 56175707 (54M) [application/pdf]
+Salvando em: ‘uc?id=18vFtJvj3qZeBbK6fVpoWDc5ccteWHMwQ’
+
+          uc?id=18v   0%[                    ]       0  --.-KB/s                        uc?id=18vF   0%[                    ] 173,16K   862KB/s                       uc?id=18vFt   1%[                    ] 933,24K  2,27MB/s                      uc?id=18vFtJ   5%[>                   ]   3,18M  5,28MB/s                     uc?id=18vFtJv  10%[=>                  ]   5,36M  6,69MB/s                    uc?id=18vFtJvj  14%[=>                  ]   7,50M  7,48MB/s                   uc?id=18vFtJvj3  17%[==>                 ]   9,61M  7,98MB/s                  uc?id=18vFtJvj3q  22%[===>                ]  11,83M  8,42MB/s                 uc?id=18vFtJvj3qZ  26%[====>               ]  14,05M  8,75MB/s                uc?id=18vFtJvj3qZe  30%[=====>              ]  16,21M  8,97MB/s               uc?id=18vFtJvj3qZeB  34%[=====>              ]  18,31M  9,13MB/s               c?id=18vFtJvj3qZeBb  36%[======>             ]  19,81M  8,97MB/s               ?id=18vFtJvj3qZeBbK  39%[======>             ]  21,16M  8,78MB/s               id=18vFtJvj3qZeBbK6  43%[=======>            ]  23,17M  8,87MB/s               d=18vFtJvj3qZeBbK6f  47%[========>           ]  25,35M  9,01MB/s               =18vFtJvj3qZeBbK6fV  51%[=========>          ]  27,47M  9,12MB/s    TED 3s     18vFtJvj3qZeBbK6fVp  55%[==========>         ]  29,61M  9,63MB/s    TED 3s     8vFtJvj3qZeBbK6fVpo  59%[==========>         ]  31,81M  10,1MB/s    TED 3s     vFtJvj3qZeBbK6fVpoW  63%[===========>        ]  34,00M  10,4MB/s    TED 3s     FtJvj3qZeBbK6fVpoWD  67%[============>       ]  36,16M  10,2MB/s    TED 3s     tJvj3qZeBbK6fVpoWDc  71%[=============>      ]  38,28M  10,2MB/s    TED 2s     Jvj3qZeBbK6fVpoWDc5  75%[==============>     ]  40,44M  10,2MB/s    TED 2s     vj3qZeBbK6fVpoWDc5c  79%[==============>     ]  42,64M  10,2MB/s    TED 2s     j3qZeBbK6fVpoWDc5cc  83%[===============>    ]  44,85M  10,2MB/s    TED 2s     3qZeBbK6fVpoWDc5cct  87%[================>   ]  47,00M  10,2MB/s    TED 2s     qZeBbK6fVpoWDc5ccte  91%[=================>  ]  49,02M  10,2MB/s    TED 0s     ZeBbK6fVpoWDc5ccteW  94%[=================>  ]  50,74M  10,2MB/s    TED 0s     eBbK6fVpoWDc5ccteWH  98%[==================> ]  52,91M  10,4MB/s    TED 0s     uc?id=18vFtJvj3qZeB 100%[===================>]  53,57M  10,5MB/s    em 5,5s    
+
+2023-05-02 16:07:33 (9,77 MB/s) - ‘uc?id=18vFtJvj3qZeBbK6fVpoWDc5ccteWHMwQ’ salvo [56175707/56175707]
+
